@@ -1,6 +1,6 @@
 from database.dao import DAO
 import networkx as nx
-#ciao gio
+#ciao gio ciao ciao
 class Model:
     def __init__(self):
         self._nodes = None
